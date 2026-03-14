@@ -340,7 +340,3 @@ This lab demonstrates practical implementation of:
 • Cisco IOS CLI
 
 ---
-
-# Author
-
-Ter1233
